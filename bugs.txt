@@ -1,2 +1,0 @@
-fase7 texto fazendo overflow na tela
-fase39 trocar o background
